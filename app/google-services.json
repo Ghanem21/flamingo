@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696181473666",
+    "project_id": "flamingo-d6352",
+    "storage_bucket": "flamingo-d6352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696181473666:android:07ebd2e1e330833a200f9b",
+        "android_client_info": {
+          "package_name": "com.flamingolive.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnN4vQugAnET3FsIhWctZcZoG5tlHbnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

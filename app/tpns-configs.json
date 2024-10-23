@@ -1,0 +1,14 @@
+{
+    "tpns": {
+        "access_id": "1520013172",
+        "access_key": "AVAIE9TLL872"
+    },
+    "com.flamingolive.apps": {
+        "channel": {
+            "enable": true
+        }
+    },
+    "debug": false,
+    "version": "1.4.3.9-release",
+    "upgrade": true
+}

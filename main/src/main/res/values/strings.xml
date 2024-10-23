@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_1m">signed in for 1 consecutive day</string>
+    <string name="connect_with_google">Login With Google</string>
+</resources>
